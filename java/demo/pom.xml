@@ -36,7 +36,7 @@
     <dependency>
       <artifactId>soy</artifactId>
       <groupId>com.google.template</groupId>
-      <version>2022-07-20</version>
+      <version>2024-02-26</version>
     </dependency>
     <dependency>
       <artifactId>appengine-maven-plugin</artifactId>
